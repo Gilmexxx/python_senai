@@ -16,6 +16,7 @@
 | - | - |
 | git checkout -b 'nomeDaBranch' | Cria uma ramificacao de uma branch |
 | git checkout 'nomeDaBranch' | Muda para um branch ja criada |
+| git merger (gitPrincial/gitSecundaria) | Mesclar uma subgit para uma git principal |
 | - | - |
 | control aspas ( crt + ' ) | Abre o terminal abaixo |
 | control + C| Encerra o loop |
