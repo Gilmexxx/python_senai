@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 ### CURSO DE PYTHON NO SEINAI 2024
+=======
+### CURSO DE CAPACITACAO PYTHON 2024
+>>>>>>> gihub
 
 Curso de capacitacao python ofertado pelo programa inovatech em parceria senai
 
