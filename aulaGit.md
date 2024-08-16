@@ -10,6 +10,6 @@
 | git status | Verifica o status do arquivo |
 | git config --list |  Lista as configuracoes git |
 | git --list | Comando mostra a listagem |
-| git log | Verifica historico de commits. Mostra o AUTOR -  EMAIL E DATA E RASH DO COMMIT UNICO|
+| git log | Verifica historico de commits. Mostra o AUTOR -  EMAIL E DATA E RASH DO COMMIT UNICO |
 | control aspas ( crt + ' ) | Abre o terminal abaixo |
 | git commit -m 'descricao do commit' | Cria um ponto de restauracao do projeto |
