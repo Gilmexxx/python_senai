@@ -9,8 +9,7 @@
 | git status | Verifica o status do arquivo |
 | git config --list |  Lista as configuracoes git |
 | git --list | Comando mostra a listagem |
-
 | git log | Verifica historico de commits. Mostra o AUTOR -  EMAIL E DATA E RASH DO COMMIT UNICO |
 | control aspas ( crt + ' ) | Abre o terminal abaixo |
 | control + C| Encerra o loop |
-| git clone   (caminho do github 'https://github.com/Gilmexxx/python_senai.git') | Serve para voce fazer uma copia do GitHub Online pro producao abrindo o Git Bash Here |
+| git clone (caminho do github 'https://github.com/Gilmexxx/python_senai.git') | Serve para voce fazer uma copia do GitHub Online pro producao abrindo o Git Bash Here |
