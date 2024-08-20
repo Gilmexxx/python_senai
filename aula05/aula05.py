@@ -70,9 +70,8 @@ if(idade < 18):
 
 '''
 
-# VARIAVEIS DE COMPARACAO
+# VARIAVEIS DE COMPARACAO FAZENDO EXEMPLO DO ENCONTRO DE ALLADIN COM JASMINE
 # E = AND
-# OU =
 
 alladin = input('Alladin apareceu? \n')
 jasmine = input('Jasmine apareceu? \n')
