@@ -83,7 +83,7 @@ if (alladin =='sim') and (jasmine =='sim'):sim
 else:
     print('Nao rolou encontro')
 
-'''
+
 
 # VARIAVEIS DE COMPARACAO FAZENDO EXEMPLO DO ENCONTRO DE ALLADIN COM JASMINE
 # OU = OR
@@ -92,6 +92,18 @@ alladin = input('Alladin apareceu? \n')
 jasmine = input('Jasmine apareceu? \n')
 
 if (alladin =='sim') or (jasmine =='sim'):
+    print('Love a noite inteira')
+else:
+    print('Nao rolou encontro')
+
+'''
+    # VARIAVEIS DE COMPARACAO FAZENDO EXEMPLO DO ENCONTRO DE ALLADIN COM JASMINE
+# OU = OR e negando NOT
+
+alladin = input('Alladin apareceu? \n')
+jasmine = input('Jasmine apareceu? \n')
+
+if not((alladin =='sim') or (jasmine =='sim')):
     print('Love a noite inteira')
 else:
     print('Nao rolou encontro')
