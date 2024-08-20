@@ -53,7 +53,8 @@ elif(idade >= 16):
 else:
     print('Não pode assitir.')
 
-'''
+-----------
+
 
 # CODIGO 1 MELHORADO TENHO QUE FINALIZAR ESTE CODIGO - lembrar de refazer em casa
 
@@ -67,7 +68,16 @@ if(idade < 18):
     else:
             print('nao pode assistir')
 
+'''
 
 # VARIAVEIS DE COMPARACAO
 # E = AND
-# OU = 
+# OU =
+
+alladin = input('Alladin apareceu? \n')
+jasmine = input('Jasmine apareceu? \n')
+
+if (alladin =='sim') and (jasmine =='sim'):sim
+    print('Love a noite inteira')
+else:
+    print('Nao rolou encontro')
