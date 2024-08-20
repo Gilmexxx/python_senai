@@ -68,7 +68,9 @@ if(idade < 18):
     else:
             print('nao pode assistir')
 
-'''
+
+
+-------------
 
 # VARIAVEIS DE COMPARACAO FAZENDO EXEMPLO DO ENCONTRO DE ALLADIN COM JASMINE
 # E = AND
@@ -77,6 +79,19 @@ alladin = input('Alladin apareceu? \n')
 jasmine = input('Jasmine apareceu? \n')
 
 if (alladin =='sim') and (jasmine =='sim'):sim
+    print('Love a noite inteira')
+else:
+    print('Nao rolou encontro')
+
+'''
+
+# VARIAVEIS DE COMPARACAO FAZENDO EXEMPLO DO ENCONTRO DE ALLADIN COM JASMINE
+# OU = OR
+
+alladin = input('Alladin apareceu? \n')
+jasmine = input('Jasmine apareceu? \n')
+
+if (alladin =='sim') or (jasmine =='sim'):
     print('Love a noite inteira')
 else:
     print('Nao rolou encontro')
