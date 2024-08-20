@@ -4,10 +4,10 @@
 
 # TIPO DE VARIAVEIS
 
-# int()
-# float
-# str
-# bool
+# int() inteiro
+# float racional
+# str caracter
+# bool falso ou verdairo
 
 
 nome = 'Luciano'
