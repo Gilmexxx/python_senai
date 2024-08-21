@@ -106,4 +106,4 @@ jasmine = input('Jasmine apareceu? \n')
 if not((alladin =='sim') or (jasmine =='sim')):
     print('Love a noite inteira')
 else:
-    print('Nao rolou encontro')git lo
+    print('Nao rolou encontro')
