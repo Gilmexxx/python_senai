@@ -16,10 +16,10 @@ numero2 = 3
     # print(numero2<numero1)
 
 # com o sinal (==) (>=) (<=) (!=) eu faço comparacao de valores
-# (==) usado para comparar as variaveis
-# (>=) maior ou igual as variaveis
-# (<=) menor ou igual as variaveis
-# (!=) tira diferença entre as vaiavies
+# (==) sinal de igual. Verifica se um valor é igual a outro
+# (>=) sinal de maior ou igual
+# (<=) sinal de menor ou igual as variaveis
+# (!=) sinal de diferença entre as vaiavies
 
     # print(numero1 == numero2)
     #print(numero1 >= numero2)
@@ -103,7 +103,7 @@ else:
 alladin = input('Alladin apareceu? \n')
 jasmine = input('Jasmine apareceu? \n')
 
-if not((alladin =='sim') or (jasmine =='sim')):
+if not((alladin =='sim') or (jasmine =='nao')):
     print('Love a noite inteira')
 else:
-    print('Nao rolou encontro')git lo
+    print('Nao rolou encontro')
