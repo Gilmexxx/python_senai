@@ -43,8 +43,6 @@ print (numero)
 
 
 
-
-
 # REATRIBUICAO DE VALORES A UMA VARIAVEL INCREMENTANDO VALOR USANDO (+=)(-=)(*=) (/=)
 
 numero = 10 
