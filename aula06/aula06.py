@@ -123,7 +123,7 @@ nomes = []
 
 for i in range(5):
     nome = input('Informe o seu nome \n')
-    nomes .append(nome)
+    nomes .append(nome) # A função .append() em Python é usada para adicionar um elemento ao final de uma lista existente
 
 for nome in nomes:
     print(nome)
@@ -131,6 +131,8 @@ for nome in nomes:
 
 
 # laço 'WHILE' em portugues 'ENQUANTO'
+# Em Python, None representa a ausência de um valor. É um tipo de dado especial que indica que uma variável não possui um valor atribuído ou que uma função não retorna nenhum valor específico. 
+# Diferente de outras linguagens de programação que utilizam termos como “null”, “NA” ou “nil”, Python usa None para essa finalidade
 
 
 numero = None
@@ -139,13 +141,13 @@ while numero != 0:
     numero = int(input('Informe o numero: '))
 
 
-# LAÇO DE REPTICAO WHILE
+# LAÇO DE REPTICAO WHILE é enquanto em portugues
 
 
-contador =1
+contador = 1
 numero = int(input('Informe o numero: '))
 
-while contador < 10
+while contador < 10 # enquanto contador for MENOR QUE 10
     print(numero * 2)
     contador +=1
 
