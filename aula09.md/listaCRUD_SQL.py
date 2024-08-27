@@ -1,6 +1,12 @@
 
 # princiapis dados de insercao de dados
-
+# .append () # a funcao adiciona um (somente 1) novo elemento no final da lista
+# .extend()  # a funcao adiciona vareios (mais de 1) novos elemento no final usando uma lista
+# .insert() # inserindo na lista em uma posicao especifica que é no inicio 3 da lista 
+# .remove() # remove, exclui um elemento pelo valor na primeiro ocorrencia da lista apenas
+# .pop() # pop exclui o ultimo elemento da lista ou indice informado
+# .index()) # indice - retona o indice da primeira ocorrencia de um valor procurado procurando elementos usando indice
+# .count() # contabilizando quantidade de elementos repetidos
 
 cavaleiros = ['Seya', 'Shun', 'Aldebarcam','Aldebarcam','Shiryu', 'Yoga', 'Aldebarcam']
 print(cavaleiros) # pra listar é o print - seria equivalente ao select no banco de dados
@@ -10,12 +16,12 @@ cavaleiros.append ('Ikki')
 print (cavaleiros)
 
 
-# a funcao .extend() adiciona vareios (mais de 1) novos elemento no final usando uma lista
+# a funcao .extend() adiciona varios (mais de 1) novos elementos no final usando uma lista
 cavaleiros.extend(['shina', 'marin'])  
 print(cavaleiros)
 
 
-cavaleiros.insert(0, 'Athena')
+cavaleiros.insert(0, 'Athena') # inserindo na lista em uma posicao especifica que é no inicio 3 da lista 
 print(cavaleiros)
 
 # inserindo na lista em uma posicao especifica que é no inicio 3 da lista 
