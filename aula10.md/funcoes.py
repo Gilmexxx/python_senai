@@ -14,7 +14,7 @@
 # numero1 = int(input('Informe o primeiro numero'))
 # numero2 = int(input('Informe o segundo numero'))
 
-'''
+
 
 numeros = [1,5,8,10,3,78,100,51]
 print(max(numeros)) # max() informa o maior numero de uma lista
@@ -27,8 +27,9 @@ print(sum(numeros)) # sum() faz a soma de todo os elementos
 #   função mean() da biblioteca statistics ou calcular manualmente usando as funções sum() e len()
 
 # Exemplo 1 retornando media
-media = sum(numeros) / len(numeros)
+media = sum(numeros) / len(numeros) # faz uma soma sum() e divide pelo numero dos elementos len()
 print(media)
+
 
 # Exemplo 2 com def
 
