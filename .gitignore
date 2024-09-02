@@ -1,0 +1,8 @@
+# pastas rais do projeto python_senai
+# O arquivo .gitignore tem a função de informar ao Git quais arquivos ou diretórios ele deve ignorar em um projeto. 
+# Isso significa que, mesmo que esses arquivos ou diretórios sofram alterações, o Git não os rastreará nem incluirá em commits.
+
+notebooks
+aula04
+
+
