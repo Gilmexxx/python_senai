@@ -1,6 +1,9 @@
 
+# criar o ambiente virtual venv
 
-# Instalra o venv
+python -m venv nome_do_ambiente
+
+# ativar o venv
 source venv/Scripts/activate
 
 # Instalar o jupyter
