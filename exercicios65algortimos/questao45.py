@@ -5,7 +5,7 @@
 maior = 0
 
 for i in range (5):
-    numero = int(input(f'Informe o numero {i +1}:'))
+    numero = int(input(f'Informe o numero {i +1}: '))
 
     if numero > maior:
         maior = numero
